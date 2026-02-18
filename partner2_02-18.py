@@ -35,4 +35,4 @@ print("Adios amigo!")
 
 # // https://www.w3schools.com/python/python_intro.asp website used for this
 # https://www.geeksforgeeks.org/python/input-and-output-in-python/
-# Partner is Oliver Flores
+# Partner is Oliver Flores :D
